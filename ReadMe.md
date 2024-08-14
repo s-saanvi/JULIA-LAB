@@ -1,4 +1,4 @@
-# <center><ins >  JULIA BDS456D </ins> </center>
+# <center><ins >  JULIA BDS456D BDSL456D </ins> </center>
 ### EXPERIMENT 1:
 ~~~ 
 A. Develop a Julia program to simulate a calculator(for integer and real numbers).
@@ -55,7 +55,8 @@ B. Develop a Julia program to determine the following properties of a matrix: de
 ~~~
 ### EXPERIMENT 9:
 ~~~
-
+A. Develop a Julia program to determine addition and subtraction of two matrices (element -wise).
+B. Develop a Julia program to perform multiplication operation on matrices: scalar multiplication, element-wise multiplication, dot product, cross product.
 ~~~
 ### EXPERIMENT 10:
 ~~~
