@@ -24,5 +24,9 @@ A. An amount of money P (for principal) is put into an account which earns inter
 
 B. Develop a Julia program which reads numbers from a file (input.txt) and finds the largest number, smallest number, count, sum and average of numbers.
 ~~~
+### EXPERIMENT 4:
 ~~~
+A. Develop a Julia program and two separate functions to calculate GCD and LCM.
+B. Develop a Julia program and a recursive function to calculate factorial of a number.
+C. Develop a Julia program and a recursive function to generate Fibonacci series.
 ~~~
