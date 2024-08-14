@@ -1,5 +1,9 @@
 # <center><ins >  JULIA BDS456D BDSL456D </ins> </center>
-### EXPERIMENT 1:
+## Course objectives:
++ ### To introduce the basics of Julia programming language
++ ### To illustrate the data structures of Julia programming language
++ ### To make use of built-in functions and packages
+### EXPERIMENT 1: 
 ~~~ 
 A. Develop a Julia program to simulate a calculator(for integer and real numbers).
 
@@ -27,12 +31,15 @@ B. Develop a Julia program which reads numbers from a file (input.txt) and finds
 ### EXPERIMENT 4:
 ~~~
 A. Develop a Julia program and two separate functions to calculate GCD and LCM.
+
 B. Develop a Julia program and a recursive function to calculate factorial of a number.
+
 C. Develop a Julia program and a recursive function to generate Fibonacci series.
 ~~~
 ### EXPERIMENT 5:
 ~~~
 A. Develop a Julia program which reads a string (word) and prints whether the word is palindrome.
+
 B. Develop a Julia program which reads and prints the words present in a file (input.txt) having Random Data in which words are dispersed randomly (Assumption: a word is a contiguous sequence of letters. A word is delimited by any non-letter character or end-of-line).
 ~~~
 ### EXPERIMENT 6:
@@ -51,14 +58,27 @@ B. Develop a Julia program to fetch words from a file with arbitrary punctuation
 ### EXPERIMENT 8:
 ~~~
 A. Develop a Julia program to evaluate expressions consisting of rational, irrational number and floating-point numbers.
+
 B. Develop a Julia program to determine the following properties of a matrix: determinant, inverse, rank, upper & lower triangular matrix, diagonal elements, Euclidean norm and Square Root of a Matrix.
 ~~~
 ### EXPERIMENT 9:
 ~~~
 A. Develop a Julia program to determine addition and subtraction of two matrices (element -wise).
+
 B. Develop a Julia program to perform multiplication operation on matrices: scalar multiplication, element-wise multiplication, dot product, cross product.
 ~~~
 ### EXPERIMENT 10:
 ~~~
+A. Develop a Julia program to generate a plot of (solid & dotted) a function: y=x^2 (use suitable data points for x).
 
+B. Develop a Julia program to generate a plot of mathematical equation: y = sin(x) + sin(2x).
+
+C. Develop a Julia program to generate multiple plots of mathematical equations: y = sin(x) + sin(2x) and y= sin(2x) + sin(3x).
 ~~~
+
+## Course outcomes (Course Skill Set):
+
++ ### Apply concepts of data-types, selection and looping constructs of Julia programming language.
++ ### Demonstrate the use of strings, functions, arrays and matrix operations in solving problems.
++ ### Develop programs involving data structures to handle multi-valued data items.
++ ### Make use of packages to generate plots of mathematical functions and equations.
