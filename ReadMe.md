@@ -35,3 +35,25 @@ C. Develop a Julia program and a recursive function to generate Fibonacci series
 A. Develop a Julia program which reads a string (word) and prints whether the word is palindrome.
 B. Develop a Julia program which reads and prints the words present in a file (input.txt) having Random Data in which words are dispersed randomly (Assumption: a word is a contiguous sequence of letters. A word is delimited by any non-letter character or end-of-line).
 ~~~
+### EXPERIMENT 6:
+~~~
+A. Develop a Julia program to determine and print the frequency with which each letter of the alphabet is used in a given line of text.
+
+B. A survey of 10 pop artists is made. Each person votes for an artist by specifying the number of the artist (a value from 1 to 10). Develop a Julia program to read the names of the artists, followed by the votes, and find out which artist is the most popular.
+~~~
+### EXPERIMENT 7:
+~~~
+
+~~~
+### EXPERIMENT 8:
+~~~
+
+~~~
+### EXPERIMENT 9:
+~~~
+
+~~~
+### EXPERIMENT 10:
+~~~
+
+~~~
