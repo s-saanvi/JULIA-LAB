@@ -50,7 +50,8 @@ B. Develop a Julia program to fetch words from a file with arbitrary punctuation
 ~~~
 ### EXPERIMENT 8:
 ~~~
-
+A. Develop a Julia program to evaluate expressions consisting of rational, irrational number and floating-point numbers.
+B. Develop a Julia program to determine the following properties of a matrix: determinant, inverse, rank, upper & lower triangular matrix, diagonal elements, Euclidean norm and Square Root of a Matrix.
 ~~~
 ### EXPERIMENT 9:
 ~~~
