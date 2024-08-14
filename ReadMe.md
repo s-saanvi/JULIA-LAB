@@ -43,6 +43,9 @@ B. A survey of 10 pop artists is made. Each person votes for an artist by specif
 ~~~
 ### EXPERIMENT 7:
 ~~~
+A. Given a line of text as input, develop a Julia program to determine the frequency with which each letter of the alphabet is used (make use of dictionary)
+
+B. Develop a Julia program to fetch words from a file with arbitrary punctuation and keep track of all the different words found (make use of set and ignore the case of the letters: e.g. to and To are treated as the same word).
 
 ~~~
 ### EXPERIMENT 8:
