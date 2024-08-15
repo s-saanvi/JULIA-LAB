@@ -6,7 +6,10 @@ B. Develop a Julia program to generate a plot of mathematical equation: y = sin(
 
 C. Develop a Julia program to generate multiple plots of mathematical equations: y = sin(x) + sin(2x) and y= sin(2x) + sin(3x).
 ~~~
+<br>
 
+**Run this program by pressing  Julia : Execute Active File in REPL**
+<br>
 
 **JL10A.jl OUTPUT :**
 
