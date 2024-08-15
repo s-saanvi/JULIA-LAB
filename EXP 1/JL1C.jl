@@ -1,0 +1,10 @@
+a=Int8(40)
+print("Value of a: $a\n")
+b=Float16(16.32)
+print("Value of b: $b\n")
+c=complex(a,b)
+print("Value of c: $c\n")
+d=Int64(345)
+print("Value of d: $d\n")
+z=c*d
+print("Value of z: $z\n")
