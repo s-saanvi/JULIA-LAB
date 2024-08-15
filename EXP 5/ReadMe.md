@@ -4,7 +4,6 @@ A. Develop a Julia program which reads a string (word) and prints whether the wo
 
 B. Develop a Julia program which reads and prints the words present in a file (input.txt) having Random Data in which words are dispersed randomly (Assumption: a word is a contiguous sequence of letters. A word is delimited by any non-letter character or end-of-line).
 ~~~
-<ins>
 
 **JL5A.jl OUTPUT :**
 ~~~

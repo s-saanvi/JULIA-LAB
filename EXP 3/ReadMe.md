@@ -5,7 +5,6 @@ A. An amount of money P (for principal) is put into an account which earns inter
 
 B. Develop a Julia program which reads numbers from a file (input.txt) and finds the largest number, smallest number, count, sum and average of numbers.
 ~~~
-<ins>
 
 **JL3A.jl OUTPUT :**
 ~~~

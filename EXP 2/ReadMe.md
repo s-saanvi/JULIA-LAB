@@ -6,8 +6,6 @@ A. Develop a Julia program for the following problem: A computer repair shop cha
 B. Develop a Julia program to calculate a person’s regular pay, overtime pay and gross pay based on the following: If hours worked is less than or equal to 40, regular pay is calculated by multiplying hours worked by rate of pay, and overtime pay is 0. If hours worked is greater than 40, regular pay is
 calculated by multiplying 40 by the rate of pay, and overtime pay is calculated by multiplying the hours in excess of 40 by the rate of pay by 1.5. Gross pay is calculated by adding regular pay and overtime pay.
 ~~~
-<ins>
-
 **JL2A.jl OUTPUT :**
 ~~~
 Hours worked? 50

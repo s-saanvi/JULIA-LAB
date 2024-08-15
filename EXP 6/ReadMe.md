@@ -4,9 +4,6 @@ A. Develop a Julia program to determine and print the frequency with which each 
 
 B. A survey of 10 pop artists is made. Each person votes for an artist by specifying the number of the artist (a value from 1 to 10). Develop a Julia program to read the names of the artists, followed by the votes, and find out which artist is the most popular.
 ~~~
-
-<ins>
-
 **JL6A.jl OUTPUT :**
 ~~~
 Letter Frequency
